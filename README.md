@@ -1,4 +1,4 @@
-![Header](file:///C:/Users/Furkan/Downloads/github-header-image.png)
+![Header](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ahmet Furkan Gümüş</h1>
 <h3 align="center">I am a software developer who is curious and open to development and improvement.</h3>
 
